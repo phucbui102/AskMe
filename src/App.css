@@ -1,0 +1,4 @@
+@import "tailwindcss";
+:root {
+  --color-bg-text: #131111; /* hoặc bất kỳ màu nào bạn muốn */
+}
